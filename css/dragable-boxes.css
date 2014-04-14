@@ -1,0 +1,58 @@
+.dragableBoxHeader img,.dragableBoxHeader span{float:left;}
+form{display:inline;}
+a{color:#d96d0d;background-color:inherit;}
+body{font-family:'Trebuchet MS','Lucida Sans Unicode','Arial',sans-serif;background-color:#fff;font-size:0.7em;margin:0px;padding:0px;height:100%;width:100%;text-align:center;}
+input{font-size:10px;}
+#mainContainer{float:right;width:76%;margin:0 auto;margin-right:2%;text-align:left;height:100%;padding-bottom:30px;}
+.loading{margin-left:5px;background:url(../img/preloading.gif) no-repeat;padding-left:13px;padding-top:1px;}
+#header{padding-bottom:52px;background:url(../img/bottom_gradient.gif) #efefef repeat-x bottom left;width:20%;float:left;text-align:left;}.dragableBox{background-color:#FFF;margin:5px;border-right:0px solid #D6D6D6;border-bottom:0px solid #D6D6D6;}
+.dragableBoxInner{border:1px solid #d96d0d;}
+.dragableBoxHeader{background-color:#fbd7b7;height:20px;padding-left:5px;font-weight:bold;color:#d96d0d;}
+.boxItemHeader{font-weight:bold;margin:0px;color:#000;text-decoration:none;overflow:hidden;}
+.boxItemHeader:hover{font-weight:bold;margin:0px;color:#F00;text-decoration:underline;}
+.dragableBoxHeader input{font-size:10px;}
+.rssNumberOfItems{color:#F00;}
+.dragableBoxContent{padding:3px;clear:both;}
+#rectangleDiv{border:1px dotted red;margin:5px;}
+.closeButton{padding:2px;border:1px solid #d96d0d;line-height:9px;height:9px;margin:2px;color:#d96d0d;background-color:inherit;padding:2px;padding-bottom:3px;}
+.closeButton_over{padding:2px;border:1px solid #d96d0d;line-height:9px;padding:2px;padding-bottom:3px;margin:2px;background-color:#D96D0E;color:#FFF;}
+img{border:0px;}
+div.info_row div{padding-left:21px;padding-bottom:3px;padding-top:3px;border-bottom:1px #D6D6D6 solid;background-repeat:no-repeat;}
+div.info_row div span{float:right;}
+div.info_row #dragableBox1 span{clear:both;padding-bottom:15px;}
+div#dragableBox1 div.info_row div{padding-left:0px;}
+div.info_row div span.errors{float:none;color:red;padding-left:16px;background:url(../img/alert.gif) 0px 1px no-repeat;}
+.ok{font-weight:bold;padding-left:20px;background:url(../img/ok.gif) 0px 0px no-repeat;}
+.ko{font-weight:bold;padding-left:20px;background:url(../img/ko.gif) 0px 0px no-repeat;}
+.s_19{background:url(../img/delicious.gif);}
+.s_20{background:url(../img/digg_icon.gif);}
+.s_21{background:url(../img/wong.gif) 0px 3px;}
+.s_22{background:url(../img/meneame.gif) 0px 3px;}
+.s_23{background:url(../img/webeame.gif) 0px 3px;}
+.s_24{background:url(../img/fresqui.gif) 0px 3px;}
+.s_25{background:url(../img/clipmarks.gif) 0px 1px;}
+.s_26{background:url(../img/heart.gif) 0px 3px;}
+.s_27,.s_46{background:url(../img/persona.gif) 0px 3px;}
+.s_28{background:url(../img/bloglines.gif) 0px 3px;}
+.s_9,.s_10{background:url(../img/w3c.gif) 0px 6px;}
+.s_5,.s_1,.s_29,.s_2{background:url(../img/Google.gif) 0px 3px;}
+.s_3,.s_30{background:url(../img/yahoo.gif) 0px 3px;}
+.s_7,.s_45{background:url(../img/alexa.gif) 0px 3px;}
+.s_6,.s_32{background:url(../img/technorati.gif) 0px 3px;;}
+.s_8{background:url(../img/dmoz.gif) 0px 3px;}
+.s_4,.s_31{background:url(../img/live.gif) 0px 2px;}
+.s_11{background:url(../img/rss-icon.gif) 0px 5px;}
+.s_34{background:url(../img/clusty.gif) 0px 4px;}
+.s_35{background:url(../img/orange.gif) 0px 3px;}
+.s_36{background:url(../img/lycos.gif) 0px 3px;}
+.s_37{background:url(../img/altavista.gif) 0px 4px;}
+.s_38{background:url(../img/alltheweb.gif) 0px 3px;}
+.s_39{background:url(../img/ask.gif) 0px 6px;}
+.s_41{background:url(../img/key.gif) 0px 3px;}
+.s_42{background:url(../img/world.gif) 0px 3px;}
+.s_43{background:url(../img/clock.gif) 0px 3px;}
+#slogan{font-size:2.5em;margin:0px;color:#A9A9A9;}
+a.akst_share_link{background:1px 0 url(/wp-content/plugins/share-this/share-icon-16x16.gif) no-repeat;padding:1px 0 3px 22px;}
+a.down_pdf{text-decoration:none;text-indent:-9999em;background:1px 0 url(../img/icon_pdf.gif) no-repeat;padding:1px 0 3px 22px;}
+#logo{padding:10px;padding-top:111px;background:url(../img/xinu_log.gif) no-repeat center 10px;}
+.s_33,.s_40{background:url(../img/none.gif) 0px 3px;}
